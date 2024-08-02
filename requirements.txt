@@ -11,4 +11,4 @@ numpy
 # TFLite for TensorFlow Lite model inference in Python
 tflite
 # Matplotlib for plotting (optional)
-matplotlib==3.5.2
+matplotlib
