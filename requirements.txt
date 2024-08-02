@@ -2,7 +2,7 @@
 streamlit==1.10.0
 
 # Transformers for using pre-trained models
-transformers==4.19.2
+transformers==4.38.0
 
 # PyTorch for deep learning
 torch==1.12.0
