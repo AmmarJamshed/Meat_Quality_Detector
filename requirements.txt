@@ -1,0 +1,10 @@
+streamlit
+transformers
+torch
+tensorflow
+tensorflow_hub
+tensorflow_lite_support
+Pillow
+numpy
+tflite
+matplotlib
