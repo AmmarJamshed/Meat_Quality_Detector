@@ -1,5 +1,5 @@
 # Streamlit for web interface
-streamlit==1.10.0
+streamlit==1.30.0
 
 # Transformers for using pre-trained models
 transformers==4.19.2
