@@ -5,7 +5,7 @@ streamlit==1.10.0
 transformers==4.19.2
 
 # PyTorch for deep learning
-torch==1.12.0
+torch==2.2.0
 
 # TensorFlow and related libraries
 tensorflow==2.9.0
