@@ -8,7 +8,7 @@ transformers==4.19.2
 torch==1.12.0
 
 # TensorFlow and related libraries
-tensorflow==2.9.0
+tensorflow==2.12.1
 tensorflow_hub==0.12.0
 tensorflow_lite_support==0.1.0
 
