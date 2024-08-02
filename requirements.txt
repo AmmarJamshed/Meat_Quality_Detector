@@ -1,14 +1,11 @@
-# Streamlit for web interface
 streamlit
-# TensorFlow and related libraries
 tensorflow
 tensorflow_hub
 tensorflow_lite_support
-# Pillow for image processing
 Pillow
-# NumPy for numerical operations
 numpy
-# TFLite for TensorFlow Lite model inference in Python
 tflite
-# Matplotlib for plotting (optional)
 matplotlib
+os
+shutil
+random
