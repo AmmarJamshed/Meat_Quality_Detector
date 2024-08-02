@@ -1,10 +1,25 @@
-streamlit
-transformers
-torch
-tensorflow
-tensorflow_hub
-tensorflow_lite_support
-Pillow
-numpy
-tflite
-matplotlib
+# Streamlit for web interface
+streamlit==1.10.0
+
+# Transformers for using pre-trained models
+transformers==4.19.2
+
+# PyTorch for deep learning
+torch==1.12.0
+
+# TensorFlow and related libraries
+tensorflow==2.9.0
+tensorflow_hub==0.12.0
+tensorflow_lite_support==0.1.0
+
+# Pillow for image processing
+Pillow==9.2.0
+
+# NumPy for numerical operations
+numpy==1.23.1
+
+# TFLite for TensorFlow Lite model inference in Python
+tflite==2.5.0
+
+# Matplotlib for plotting (optional)
+matplotlib==3.5.2
