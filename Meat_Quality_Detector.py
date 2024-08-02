@@ -3,7 +3,6 @@
 
 # In[1]:
 
-pip install -r requirements.txt
 import tensorflow as tf
 from tensorflow.keras.preprocessing.image import ImageDataGenerator
 from tensorflow.keras.models import Sequential
